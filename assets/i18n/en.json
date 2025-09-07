@@ -1,0 +1,657 @@
+{
+  "NAVBAR": {
+    "BRAND_NAME": "Al Haddad Company",
+    "BRAND_TAGLINE": "Digital Auctions",
+    "HOME": "Home",
+    "ABOUT": "About",
+    "AUCTIONS": "Auctions",
+    "UPCOMING_AUCTIONS": "Upcoming Auctions",
+    "PREVIOUS_AUCTIONS": "Previous Auctions",
+    "CURRENT_AUCTIONS": "Current Auctions",
+    "FAQ": "FAQ",
+    "CONTACT": "Contact",
+    "DASHBOARD": "Dashboard",
+    "LOGIN": "Login",
+    "REGISTER": "Register",
+    "LOGOUT": "Logout",
+    "PROFILE": "Profile",
+    "MY_BIDS": "My Bids",
+    "CALL_NOW": "Call Now",
+    "ENGLISH": "English",
+    "ARABIC": "Arabic",
+    "TO_TOP": "Top",
+    "WHATSAPP": "Chat"
+  },
+  "ABOUT": {
+    "HERO": {
+      "BADGE": "About Our Company",
+      "TITLE": "About Al Haddad Auctions",
+      "SUBTITLE": "Your Trusted Partner in Premium Car Auctions",
+      "CONTACT_US": "Contact Us",
+      "VIEW_AUCTIONS": "View Auctions"
+    },
+    "STATS": {
+      "YEARS_EXPERIENCE": "Years Experience",
+      "CARS_SOLD": "Cars Sold",
+      "HAPPY_CLIENTS": "Happy Clients",
+      "MONTHLY_AUCTIONS": "Monthly Auctions"
+    },
+    "STORY": {
+      "BADGE": "Our Story",
+      "TITLE": "Leading the Future of Car Auctions",
+      "DESCRIPTION_1": "Al Haddad Auctions Company has been at the forefront of the car auction industry for over 15 years, providing exceptional service and access to the world's most coveted vehicles. Our commitment to excellence and customer satisfaction has made us a trusted name in the auction world.",
+      "DESCRIPTION_2": "We specialize in curating premium car auctions featuring luxury vehicles, classic cars, sports cars, and commercial vehicles from around the globe. Our digital platform ensures secure, transparent, and accessible bidding experiences for all our clients.",
+      "FEATURE_1": "15+ Years of Industry Experience",
+      "FEATURE_2": "1000+ Cars Successfully Sold",
+      "FEATURE_3": "500+ Satisfied Customers",
+      "VISUAL_TITLE": "Our Services",
+      "VISUAL_ITEM_1": "Premium Car Auctions",
+      "VISUAL_ITEM_2": "Secure Transactions",
+      "VISUAL_ITEM_3": "Expert Customer Service"
+    },
+    "FOUNDER": {
+      "BADGE": "Meet Our Founder",
+      "TITLE": "The Vision Behind Our Success",
+      "QUOTE": "We believe in bringing the finest auction experiences to our clients with integrity, transparency, and excellence.",
+      "ACHIEVEMENT_1": "15+ Years Industry Leadership",
+      "ACHIEVEMENT_2": "Award-Winning Service Excellence",
+      "ACHIEVEMENT_3": "Trusted by 500+ Clients"
+    },
+    "TEAM": {
+      "FOUNDER_POSITION": "Founder & CEO",
+      "FOUNDER_DESCRIPTION": "Abdul Mohsen Al-Haddad is a visionary leader with over 15 years of experience in the automotive auction industry. His passion for excellence and commitment to customer satisfaction has driven Al Haddad Auctions to become one of the most trusted names in Saudi Arabia's car auction market."
+    },
+    "VALUES": {
+      "BADGE": "Our Values",
+      "TITLE": "What Drives Us Forward",
+      "SUBTITLE": "Our core values guide everything we do, ensuring the highest standards of service and integrity.",
+      "TRUST": {
+        "TITLE": "Trust",
+        "DESCRIPTION": "Building lasting relationships through reliable and transparent auction processes."
+      },
+      "TRANSPARENCY": {
+        "TITLE": "Transparency",
+        "DESCRIPTION": "Complete openness in all our dealings, from car inspections to final transactions."
+      },
+      "EXCELLENCE": {
+        "TITLE": "Excellence",
+        "DESCRIPTION": "Striving for the highest quality in every aspect of our auction services."
+      },
+      "INTEGRITY": {
+        "TITLE": "Integrity",
+        "DESCRIPTION": "Maintaining the highest ethical standards in all our business practices."
+      }
+    },
+    "CTA": {
+      "TITLE": "Ready to Experience Premium Car Auctions?",
+      "SUBTITLE": "Join thousands of satisfied customers who trust Al Haddad Auctions for their automotive needs.",
+      "CONTACT_US": "Contact Us",
+      "EXPLORE_AUCTIONS": "Explore Auctions"
+    }
+  },
+  "HOME": {
+    "HERO": {
+      "BADGE": "Trusted Auction House",
+      "TITLE_LINE1": "Welcome to",
+      "TITLE_HIGHLIGHT": "Al Haddad Auctions",
+      "TITLE_LINE2": "Your Gateway to Premium Auctions",
+      "DESCRIPTION": "Discover exceptional items through our innovative auction platform. From rare collectibles to premium assets, we bring you the best in digital auction experiences with transparency and professionalism.",
+      "STATS": {
+        "AUCTIONS": "Auctions",
+        "CLIENTS": "Happy Clients",
+        "YEARS": "Years Experience"
+      },
+      "CTA_BUTTON": "Explore Auctions",
+      "LEARN_MORE": "Learn More",
+      "LIVE_AUCTION": "Live Auction",
+      "ACTIVE_BIDS": "Active Bids",
+      "FEATURED_AUCTION": "Featured Auction",
+      "AUCTION_DESCRIPTION": "Premium collectibles and rare items from around the world",
+      "CURRENT_BID": "Current Bid",
+      "SCROLL_DOWN": "Scroll Down"
+    },
+    "ABOUT": {
+      "BADGE": "About Us",
+      "TITLE": "About Al Haddad Auctions",
+      "SUBTITLE": "Your Trusted Partner in Premium Auctions",
+      "HIGHLIGHT_QUOTE": "We believe in bringing the finest auction experiences to our clients with integrity, transparency, and excellence.",
+      "DESCRIPTION_1": "Al Haddad Auctions Company has been at the forefront of the auction industry for over 15 years, providing exceptional service and access to the world's most coveted items. Our commitment to excellence and customer satisfaction has made us a trusted name in the auction world.",
+      "DESCRIPTION_2": "We specialize in curating premium auctions featuring rare collectibles, luxury vehicles, fine art, antiques, and exclusive items from around the globe. Our digital platform ensures secure, transparent, and accessible bidding experiences for all our clients.",
+      "FEATURES": {
+        "TRUST": {
+          "TITLE": "Trust & Reliability",
+          "DESCRIPTION": "Built on years of experience and thousands of successful transactions"
+        },
+        "EXPERTISE": {
+          "TITLE": "Expert Curation",
+          "DESCRIPTION": "Carefully selected items by industry experts and specialists"
+        },
+        "TRANSPARENCY": {
+          "TITLE": "Full Transparency",
+          "DESCRIPTION": "Clear processes and honest communication throughout"
+        }
+      },
+      "YEARS_EXPERIENCE": "Years of Excellence"
+    },
+    "LIVE_AUCTIONS": {
+      "TITLE": "Live Auctions",
+      "SUBTITLE": "Join active auctions happening right now",
+      "VIEW_ALL": "View All Live Auctions",
+      "TIME_REMAINING": "Time Remaining"
+    },
+    "FEATURES": {
+      "BADGE": "Our Features",
+      "TITLE": "Why Choose Al Haddad Auctions",
+      "SUBTITLE": "Experience the best auction platform with our unique features",
+      "SECURE": "Secure & Trusted",
+      "SECURE_DESC": "Your transactions and data are protected with industry-leading security",
+      "TRANSPARENT": "Transparent Process",
+      "TRANSPARENT_DESC": "Complete transparency in all auction processes and pricing",
+      "EXPERT": "Expert Team",
+      "EXPERT_DESC": "Professional team with years of auction experience",
+      "GLOBAL": "Global Reach",
+      "GLOBAL_DESC": "Connect with bidders and sellers worldwide"
+    },
+    "UPCOMING_AUCTIONS": {
+      "TITLE": "Upcoming Auctions",
+      "SUBTITLE": "Discover Our Latest Premium Auctions",
+      "VIEW_ALL": "View All Auctions",
+      "NO_AUCTIONS_TITLE": "No Upcoming Auctions",
+      "NO_AUCTIONS_DESCRIPTION": "Check back soon for our latest auction announcements and premium items.",
+      "STARTING_SOON": "Starting Soon",
+      "STARTS_IN": "Starts In",
+      "ENDS_IN": "Ends In",
+      "DAYS": "Days",
+      "HOURS": "Hours",
+      "MINUTES": "Minutes",
+      "ENDED": "Ended",
+      "DAYS_AGO": "Days Ago",
+      "LOAD_MORE": "Load More Auctions"
+    },
+    "TESTIMONIALS": {
+      "BADGE": "Testimonials",
+      "TITLE": "What Our Clients Say",
+      "SUBTITLE": "Trusted by thousands of satisfied clients worldwide"
+    },
+    "STATS": {
+      "AUCTIONS_COMPLETED": "Auctions Completed",
+      "HAPPY_CLIENTS": "Happy Clients",
+      "ITEMS_SOLD": "Items Sold",
+      "YEARS_EXPERIENCE": "Years Experience"
+    },
+    "CTA": {
+      "BADGE": "Get Started",
+      "TITLE": "Ready to Start Your Auction Journey?",
+      "DESCRIPTION": "Join thousands of satisfied clients who trust Al Haddad Auctions for their premium auction needs.",
+      "EXPLORE_AUCTIONS": "Explore Auctions",
+      "CONTACT_US": "Contact Us"
+    }
+  },
+  "AUCTIONS": {
+    "TYPES": {
+      "PUBLIC": "Public Auction",
+      "SEALED_BID": "Sealed Bid Auction"
+    },
+    "STATUS": {
+      "LIVE": "Live",
+      "UPCOMING": "Upcoming",
+      "ENDED": "Ended",
+      "PENDING": "Pending"
+    },
+    "COUNTDOWN": {
+      "STARTS_IN": "Auction Starts In",
+      "ENDS_IN": "Auction Ends In",
+      "SECONDS": "Seconds",
+      "DAYS": "Days",
+      "HOURS": "Hours",
+      "MINUTES": "Minutes"
+    },
+    "ERROR": {
+      "NOT_FOUND": "Auction Not Found",
+      "NOT_FOUND_DESC": "The auction you're looking for doesn't exist or has been removed."
+    },
+    "DETAILS": {
+      "VIEW_DETAILS": "View Details",
+      "BID_NOW": "Bid Now",
+      "CONTACT_WHATSAPP": "Contact via WhatsApp",
+      "START_DATE": "Start Date",
+      "END_DATE": "End Date"
+    },
+    "SCHEDULE": "Auction Schedule",
+    "CONTENT": "Auction Items",
+    "INSPECTION_HOURS": "Inspection Hours",
+    "TERMS_AND_CONDITIONS": "Terms & Conditions",
+    "DOWNLOAD_TERMS": "Download Terms PDF",
+    "PARTNER": "Partner",
+    "SOCIAL_LINKS": "Social Media",
+    "NOTIFY_ME": "Notify Me",
+    "NO_IMAGE": "No Image Available",
+    "CLICK_TO_ZOOM": "Click to zoom"
+  },
+  "PREVIOUS_AUCTIONS": {
+    "SUBTITLE": "Explore our completed auctions and their results",
+    "COMPLETED_AUCTIONS": "Completed Auctions",
+    "ERROR_MESSAGE": "Unable to load previous auctions. Please try again later.",
+    "NO_PREVIOUS_AUCTIONS": "No Previous Auctions",
+    "NO_PREVIOUS_AUCTIONS_DESC": "There are currently no previous auctions. Check back later or explore upcoming auctions.",
+    "VIEW_UPCOMING": "View Upcoming Auctions",
+    "RECENT": "Recent",
+    "FEATURED": "Featured",
+    "RECENT_AUCTIONS": "Recent Auctions",
+    "FEATURED_AUCTIONS": "Featured Auctions",
+    "TODAY": "Today",
+    "YESTERDAY": "Yesterday",
+    "DAYS_AGO": "Days Ago",
+    "WEEKS_AGO": "Weeks Ago",
+    "MONTHS_AGO": "Months Ago",
+    "YEARS_AGO": "Years Ago"
+  },
+  "UPCOMING_AUCTIONS": {
+    "SUBTITLE": "Discover our upcoming auctions and mark your calendar",
+    "UPCOMING_AUCTIONS": "Upcoming Auctions",
+    "ERROR_MESSAGE": "Unable to load upcoming auctions. Please try again later.",
+    "NO_UPCOMING_AUCTIONS": "No Upcoming Auctions",
+    "NO_UPCOMING_AUCTIONS_DESC": "There are currently no upcoming auctions. Check back later or explore current auctions.",
+    "VIEW_CURRENT": "View Current Auctions",
+    "URGENT": "Urgent",
+    "FEATURED": "Featured",
+    "URGENT_AUCTIONS": "Urgent Auctions",
+    "FEATURED_AUCTIONS": "Featured Auctions",
+    "COUNTDOWN_STARTS": "Auction Starts In",
+    "COUNTDOWN_ENDS": "Auction Ends In"
+  },
+  "CURRENT_AUCTIONS": {
+    "SUBTITLE": "Discover and participate in live auctions happening right now",
+    "LIVE_NOW": "Live Now",
+    "ERROR_MESSAGE": "Unable to load current auctions. Please try again later.",
+    "NO_LIVE_AUCTIONS": "No Live Auctions",
+    "NO_LIVE_AUCTIONS_DESC": "There are currently no live auctions. Check back later or explore upcoming auctions.",
+    "VIEW_UPCOMING": "View Upcoming Auctions",
+    "TIME_REMAINING": "Time Remaining",
+    "ENDING_SOON": "Ending Soon",
+    "CRITICAL": "Critical",
+    "LIVE_AUCTIONS": "Live Auctions"
+  },
+  "COMMON": {
+    "LOADING": "Loading...",
+    "ERROR": "An error occurred",
+    "SUCCESS": "Success",
+    "CANCEL": "Cancel",
+    "SAVE": "Save",
+    "DELETE": "Delete",
+    "EDIT": "Edit",
+    "GO_BACK": "Go Back",
+    "SHARE": "Share",
+    "ENGLISH": "English",
+    "ARABIC": "Arabic",
+    "ADD": "Add",
+    "SEARCH": "Search",
+    "FILTER": "Filter",
+    "SORT": "Sort",
+    "VIEW": "View",
+    "CLOSE": "Close",
+    "BACK": "Back",
+    "NEXT": "Next",
+    "PREVIOUS": "Previous",
+    "SUBMIT": "Submit",
+    "RESET": "Reset",
+    "CONFIRM": "Confirm",
+    "YES": "Yes",
+    "NO": "No",
+    "RETRY": "Retry",
+    "OK": "OK"
+  },
+  "DASHBOARD": {
+    "TITLE": "Dashboard",
+    "WELCOME": "Welcome to your dashboard",
+    "OVERVIEW": "Overview",
+    "AUCTIONS": "Auctions",
+    "BIDS": "Bids",
+    "SETTINGS": "Settings",
+    "PROFILE": "Profile",
+    "LOGOUT": "Logout"
+  },
+  "CONTROL_AUCTIONS": {
+    "TITLE": "Auction Management",
+    "CREATE_TITLE": "Create New Auction",
+    "EDIT_TITLE": "Edit Auction",
+    "BASIC_INFO": "Basic Information",
+    "PHOTOS": "Photos",
+    "PHOTOS_HELP": "Add photos for the auction",
+    "ADD_PHOTO": "Add Photo",
+    "REMOVE_PHOTO": "Remove",
+    "PHOTO_URL_PLACEHOLDER": "Enter photo URL",
+    "TITLE_EN": "Title (English)",
+    "TITLE_AR": "Title (Arabic)",
+    "TITLE_PLACEHOLDER_EN": "Enter auction title in English",
+    "TITLE_PLACEHOLDER_AR": "أدخل عنوان المزاد بالعربية",
+    "DETAILS_EN": "Description (English)",
+    "DETAILS_AR": "Description (Arabic)",
+    "DETAILS_PLACEHOLDER_EN": "Enter auction description in English",
+    "DETAILS_PLACEHOLDER_AR": "أدخل وصف المزاد بالعربية",
+    "DATES": "Auction Dates",
+    "START_DATE": "Start Date",
+    "END_DATE": "End Date",
+    "SHOW_DATES": "Show dates to users",
+    "AUCTION_TYPE": "Auction Type",
+    "AUCTION_TYPE_HELP": "Select the type of auction",
+    "CONTENT": "Auction Content",
+    "CONTENT_EN": "Content (English)",
+    "CONTENT_AR": "Content (Arabic)",
+    "ADD_CONTENT": "Add Content",
+    "REMOVE_CONTENT": "Remove",
+    "CONTENT_PLACEHOLDER_EN": "Enter content item in English",
+    "CONTENT_PLACEHOLDER_AR": "أدخل عنصر المحتوى بالعربية",
+    "CONTENT_SECTION": {
+      "ENGLISH": "Content (English)",
+      "ARABIC": "Content (Arabic)"
+    },
+    "TERMS_AND_CONDITIONS": "Terms & Conditions",
+    "ANNOUNCEMENT_LINKS": "Announcement Links",
+    "DOWNLOAD_TERMS": "Download Terms",
+    "INSPECTION": "Inspection Information",
+    "INSPECTION_HOURS_EN": "Inspection Hours (English)",
+    "INSPECTION_HOURS_AR": "Inspection Hours (Arabic)",
+    "SHOW_INSPECTION": "Show inspection hours",
+    "INSPECTION_PLACEHOLDER_EN": "e.g., Monday-Friday 9:00 AM - 5:00 PM",
+    "INSPECTION_PLACEHOLDER_AR": "مثال: الاثنين-الجمعة 9:00 ص - 5:00 م",
+    "TERMS": "Terms & Conditions",
+    "TERMS_EN": "Terms & Conditions (English)",
+    "TERMS_AR": "Terms & Conditions (Arabic)",
+    "TERMS_PLACEHOLDER_EN": "Enter terms and conditions in English",
+    "TERMS_PLACEHOLDER_AR": "أدخل الشروط والأحكام بالعربية",
+    "TERMS_PDF": "Terms PDF URL",
+    "TERMS_PDF_PLACEHOLDER": "Enter PDF URL for terms",
+    "SOCIAL_MEDIA": "Social Media Links",
+    "FACEBOOK": "Facebook",
+    "INSTAGRAM": "Instagram",
+    "TIKTOK": "TikTok",
+    "SOCIAL_PLACEHOLDER": "Enter social media URL",
+    "PARTNER": "Partner Information",
+    "PARTNER_NAME_EN": "Partner Name (English)",
+    "PARTNER_NAME_AR": "Partner Name (Arabic)",
+    "PARTNER_LOGO": "Partner Logo URL",
+    "PARTNER_LOGO_PLACEHOLDER": "Enter partner logo URL",
+    "VALIDATION": {
+      "REQUIRED": "This field is required",
+      "INVALID_URL": "Please enter a valid URL",
+      "INVALID_DATE": "Please enter a valid date",
+      "PAST_DATE": "Date cannot be in the past",
+      "END_DATE_AFTER_START": "End date must be after start date",
+      "MIN_PHOTOS": "At least one photo is required",
+      "MIN_CONTENT": "At least one content item is required"
+    },
+    "ACTIONS": {
+      "SAVE": "Save Auction",
+      "UPDATE": "Update Auction",
+      "SAVING": "Saving...",
+      "RESET": "Reset Form",
+      "CANCEL": "Cancel",
+      "CREATE_NEW": "Create New Auction",
+      "EDIT": "Edit",
+      "DELETE": "Delete"
+    },
+    "MESSAGES": {
+      "SUCCESS": "Auction created successfully!",
+      "UPDATE_SUCCESS": "Auction updated successfully!",
+      "DELETE_SUCCESS": "Auction deleted successfully!",
+      "ERROR": "Error creating auction. Please try again.",
+      "DELETE_ERROR": "Error deleting auction. Please try again.",
+      "CONFIRM_RESET": "Are you sure you want to reset the form? All data will be lost.",
+      "CONFIRM_DELETE": "Are you sure you want to delete this auction? This action cannot be undone.",
+      "CONFIRM_RESET_DETAILS": "This will clear all form data and return to create mode.",
+      "CONFIRM_DELETE_DETAILS": "This action will permanently remove the auction from the system.",
+      "VALIDATION_ERROR": "Form Validation Error",
+      "PLEASE_CHECK_FORM": "Please check the form for errors and try again.",
+      "CONFIRM_EDIT": "Unsaved Changes",
+      "UNSAVED_CHANGES": "You have unsaved changes. Do you want to continue editing this auction?",
+      "EDITING_AUCTION": "Editing Auction",
+      "MAKE_CHANGES": "You can now make changes to the auction details.",
+      "CONFIRM_REMOVE_PHOTO": "Remove Photo",
+      "PHOTO_REMOVED": "Photo removed successfully",
+      "CONFIRM_REMOVE_CONTENT": "Remove Content",
+      "CONTENT_REMOVED": "Content item removed successfully",
+      "CONFIRM_REMOVE_LOGO": "Remove Logo",
+      "LOGO_REMOVED": "Logo removed successfully",
+      "LOGO_UPLOADED": "Logo uploaded successfully",
+      "LOGO_UPLOAD_ERROR": "Error uploading logo. Please try again.",
+      "LOGO_SIZE_LIMIT": "Logo file size must be less than 2MB",
+      "FILE_SIZE_WARNING": "File Size Warning",
+      "FILE_SIZE_LIMIT": "The following files exceed the 5MB limit: {files}",
+      "PHOTOS_UPLOADED": "Photos Uploaded",
+      "PHOTOS_COUNT": "Successfully uploaded {count} photo(s)",
+      "UPLOADING_PHOTOS": "Uploading photos...",
+      "UPLOAD_ERROR": "Upload Error",
+      "UPLOAD_ERROR_DETAILS": "There was an error uploading the files. Please try again.",
+      "INVALID_FILES": "The following files are invalid: {files}. Maximum size: {maxSize}",
+      "NOT_IMAGE": "Not an image file",
+      "CANNOT_REMOVE_PHOTO": "Cannot Remove Photo",
+      "MIN_PHOTOS_REQUIRED": "At least one photo is required for the auction",
+      "CONFIRM_REMOVE_PHOTO_DETAILS": "Are you sure you want to remove this photo?",
+      "PHOTO_REMOVED_DETAILS": "The photo has been successfully removed",
+      "CONFIRM_REMOVE_CONTENT_DETAILS": "Are you sure you want to remove this content item?",
+      "CONTENT_REMOVED_DETAILS": "The content item has been successfully removed",
+      "CANNOT_REMOVE_CONTENT": "Cannot Remove Content",
+      "MIN_CONTENT_REQUIRED": "At least one content item is required for each language",
+      "LOGO_UPLOADED_DETAILS": "The partner logo has been successfully uploaded",
+      "LOGO_REMOVED_DETAILS": "The partner logo has been successfully removed",
+      "LOGO_UPLOAD_ERROR_DETAILS": "There was an error uploading the logo. Please try again.",
+      "UPLOADING_LOGO": "Uploading logo...",
+      "INVALID_FILE_TYPE": "Invalid File Type",
+      "LOGO_MUST_BE_IMAGE": "Logo must be an image file (JPG, PNG, GIF, etc.)",
+      "CONFIRM_REMOVE_LOGO_DETAILS": "Are you sure you want to remove the partner logo?",
+      "NO_LOGO_TO_REMOVE": "No Logo to Remove",
+      "NO_LOGO_TO_REMOVE_DETAILS": "There is no logo currently uploaded to remove",
+      "UPDATE_SUCCESS_DETAILS": "Your auction has been successfully updated",
+      "CREATE_SUCCESS_DETAILS": "Your new auction has been successfully created",
+      "UPDATING_AUCTION": "Updating auction...",
+      "CREATING_AUCTION": "Creating auction...",
+      "EDIT_ERROR": "Edit Error",
+      "EDIT_ERROR_DETAILS": "There was an error loading the auction for editing",
+      "DELETE_SUCCESS_DETAILS": "The auction has been permanently deleted",
+      "DELETING_AUCTION": "Deleting auction...",
+      "FORM_RESET": "Form Reset",
+      "FORM_RESET_DETAILS": "The form has been cleared and reset to default values",
+      "RESET_ERROR": "Reset Error",
+      "RESET_ERROR_DETAILS": "There was an error resetting the form",
+      "LOAD_ERROR": "Loading Error",
+      "LOAD_ERROR_DETAILS": "There was an error loading the auctions. Please refresh the page.",
+      "INVALID_DATE_RANGE": "Invalid Date Range",
+      "END_DATE_MUST_BE_AFTER_START": "End date must be after the start date",
+      "UNKNOWN_ERROR": "An unknown error occurred. Please try again.",
+      "OK": "OK"
+    },
+    "TABLE": {
+      "PHOTOS": "Photos",
+      "TITLE": "Title",
+      "TYPE": "Type",
+      "DATES": "Dates",
+      "STATUS": "Status",
+      "CREATED": "Created",
+      "ACTIONS": "Actions",
+      "DATES_HIDDEN": "Hidden",
+      "NO_AUCTIONS": "No auctions found. Create your first auction to get started."
+    },
+    "STATUS": {
+      "UPCOMING": "Upcoming",
+      "ACTIVE": "Active",
+      "ENDED": "Ended",
+      "PENDING": "Pending"
+    }
+  },
+  "FAQ": {
+    "TITLE": "Frequently Asked Questions",
+    "SUBTITLE": "Find answers to the most common questions about our auction platform",
+    "SEARCH_PLACEHOLDER": "Search for questions...",
+    "CATEGORIES": {
+      "TITLE": "Categories",
+      "ALL": "All Questions",
+      "GENERAL": "General",
+      "BIDDING": "Bidding",
+      "PAYMENT": "Payment",
+      "SHIPPING": "Shipping",
+      "ACCOUNT": "Account"
+    },
+    "EXPAND_ALL": "Expand All",
+    "COLLAPSE_ALL": "Collapse All",
+    "RESULTS_FOUND": "questions found",
+    "FILTERED_BY": "Filtered by",
+    "NO_RESULTS_TITLE": "No Questions Found",
+    "NO_RESULTS_DESC": "Try changing your search criteria or browse all categories",
+    "SHOW_ALL": "Show All Questions",
+    "STILL_NEED_HELP": "Still Need Help?",
+    "CONTACT_US_DESC": "Our support team is ready to assist you with any additional questions",
+    "CONTACT_US": "Contact Us",
+    "CALL_US": "Call Us",
+    "GENERAL": {
+      "Q1": "What is Al Haddad Auctions Company?",
+      "A1": "Al Haddad Auctions Company is a premier auction house specializing in premium collectibles, luxury items, and exclusive assets. We provide secure, transparent, and professional auction services through our digital platform.",
+      "Q2": "How do I participate in auctions?",
+      "A2": "To participate in our auctions, you can browse available items on our website and contact us via WhatsApp or phone to place your bid. Our team will guide you through the entire process.",
+      "Q3": "What types of items do you auction?",
+      "A3": "We auction a wide variety of premium items including rare collectibles, luxury vehicles, fine art, antiques, jewelry, and exclusive items from around the world."
+    },
+    "BIDDING": {
+      "Q1": "How does the bidding process work?",
+      "A1": "Our bidding process is simple and transparent. Contact us via WhatsApp or phone to place your bid. Our team will keep you updated on the status of your bids and notify you of any counter-bids.",
+      "Q2": "Is there a minimum bid amount?",
+      "A2": "Yes, each auction item has a minimum starting bid. The minimum amount varies depending on the item and will be clearly displayed in the auction details.",
+      "Q3": "Can I bid on multiple items?",
+      "A3": "Absolutely! You can bid on as many items as you like. Our team will help manage your bids and keep you informed about the status of each one."
+    },
+    "PAYMENT": {
+      "Q1": "What payment methods do you accept?",
+      "A1": "We accept various payment methods including bank transfers, certified checks, and cash payments. Specific payment options will be discussed with winning bidders.",
+      "Q2": "When do I need to pay for my winning bid?",
+      "A2": "Payment is typically required within 48 hours of winning an auction. Our team will contact you with detailed payment instructions and timeline.",
+      "Q3": "Are there any additional fees?",
+      "A3": "There may be additional fees such as buyer's premium, shipping, or handling charges. All fees will be clearly communicated before you place your bid."
+    },
+    "SHIPPING": {
+      "Q1": "Do you provide shipping services?",
+      "A1": "Yes, we can arrange shipping for your purchased items. Shipping costs and arrangements will be discussed based on the item size, destination, and your preferences.",
+      "Q2": "How long does shipping take?",
+      "A2": "Shipping times vary depending on the item, destination, and shipping method chosen. We'll provide estimated delivery times when arranging shipment."
+    },
+    "ACCOUNT": {
+      "Q1": "Do I need to create an account to bid?",
+      "A1": "While we don't have an online registration system, we do collect basic information from bidders for verification purposes. Contact us and we'll guide you through the process.",
+      "Q2": "How do I update my contact information?",
+      "A2": "To update your contact information, simply reach out to us via WhatsApp or phone with your updated details. We'll make sure our records are current."
+    }
+  },
+  "CONTACT": {
+    "TITLE": "Contact Us",
+    "SUBTITLE": "Get in touch with our expert team for any questions or assistance",
+    "INFO": {
+      "PHONE": {
+        "TITLE": "Phone Number"
+      },
+      "EMAIL": {
+        "TITLE": "Email Address"
+      },
+      "ADDRESS": {
+        "TITLE": "Address"
+      },
+      "HOURS": {
+        "TITLE": "Business Hours"
+      }
+    },
+    "MAP": {
+      "TITLE": "Our Location",
+      "OPEN": "Open Map",
+      "DESCRIPTION": "Click to view our location on Google Maps"
+    },
+    "SOCIAL": {
+      "TITLE": "Follow Us"
+    },
+    "FORM": {
+      "TITLE": "Send us a Message",
+      "DESCRIPTION": "Fill out the form below and we'll get back to you as soon as possible",
+      "FIELDS": {
+        "NAME": "Full Name",
+        "EMAIL": "Email Address",
+        "PHONE": "Phone Number",
+        "SUBJECT": "Subject",
+        "MESSAGE": "Message"
+      },
+      "PLACEHOLDERS": {
+        "NAME": "Enter your full name",
+        "EMAIL": "Enter your email address",
+        "PHONE": "Enter your phone number",
+        "SUBJECT": "What is this regarding?",
+        "MESSAGE": "Tell us how we can help you..."
+      },
+      "ERRORS": {
+        "REQUIRED": "This field is required",
+        "EMAIL": "Please enter a valid email address",
+        "MIN_LENGTH": "This field is too short",
+        "PHONE": "Please enter a valid phone number"
+      },
+      "SEND": "Send Message",
+      "SENDING": "Sending...",
+      "SUCCESS": "Message sent successfully!",
+      "SUCCESS_DESC": "Thank you for contacting us. We'll get back to you soon."
+    },
+    "SUBJECT_OPTIONS": {
+      "GENERAL_INQUIRY": "General Inquiry",
+      "AUCTION_PARTICIPATION": "Auction Participation",
+      "CAR_SELLING": "Sell My Car",
+      "CAR_BUYING": "Buy a Car",
+      "INSPECTION_SERVICE": "Car Inspection Service",
+      "VALUATION_SERVICE": "Car Valuation Service",
+      "DELIVERY_SERVICE": "Delivery Service",
+      "PAYMENT_ISSUE": "Payment Issue",
+      "TECHNICAL_SUPPORT": "Technical Support",
+      "PARTNERSHIP": "Partnership Opportunity"
+    },
+    "QUICK_ACTIONS": {
+      "TITLE": "Quick Actions",
+      "DESCRIPTION": "Choose the best way to reach us",
+      "WHATSAPP": "WhatsApp",
+      "WHATSAPP_DESC": "Chat with us instantly",
+      "CALL": "Call Us",
+      "CALL_DESC": "Speak with our team",
+      "FAQ": "View FAQ",
+      "FAQ_DESC": "Find quick answers"
+    }
+  },
+  "FOOTER": {
+    "BRAND_NAME": "Al Haddad Company",
+    "BRAND_TAGLINE": "Digital Auctions",
+    "DESCRIPTION": "Your trusted partner in premium auctions. We bring you exceptional items through our innovative digital platform with transparency, security, and professionalism.",
+    "FOLLOW_US": "Follow Us",
+    "QUICK_LINKS": "Quick Links",
+    "OUR_FEATURES": "Our Features",
+    "CONTACT_INFO": "Contact Information",
+    "COPYRIGHT": "Al Haddad Auctions Company. All rights reserved.",
+    "BACK_TO_TOP": "Back to Top",
+    "SOCIAL": {
+      "WHATSAPP": "WhatsApp",
+      "FACEBOOK": "Facebook",
+      "INSTAGRAM": "Instagram",
+      "TWITTER": "Twitter",
+      "LINKEDIN": "LinkedIn"
+    },
+    "FEATURES_LIST": {
+      "LIVE_BIDDING": "Live Bidding",
+      "SECURE_PAYMENTS": "Secure Payments",
+      "QUALITY_GUARANTEE": "Quality Guarantee",
+      "EXPERT_INSPECTION": "Expert Inspection",
+      "FAST_DELIVERY": "Fast Delivery"
+    },
+    "CONTACT": {
+      "ADDRESS_TITLE": "Address",
+      "ADDRESS": "Al Khobar, Eastern Province, Saudi Arabia",
+      "PHONE_TITLE": "Phone",
+      "EMAIL_TITLE": "Email",
+      "HOURS_TITLE": "Business Hours",
+      "HOURS": "Sunday - Thursday: 9:00 AM - 6:00 PM"
+    },
+    "LEGAL": {
+      "PRIVACY_POLICY": "Privacy Policy",
+      "TERMS_CONDITIONS": "Terms & Conditions",
+      "COOKIES": "Cookie Policy"
+    }
+  }
+}

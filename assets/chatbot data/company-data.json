@@ -1,0 +1,227 @@
+{
+  "companyName": "شركة الحداد للمزادات",
+  "companyNameEn": "Al Haddad Auctions Company",
+  "tagline": "للمزادات العلنية",
+  "taglineEn": "For Public Auctions",
+  "location": "الدمام - السعودية",
+  "locationEn": "Dammam - Saudi Arabia",
+  "address": "الدمام المنطقة الشرقية، المملكة العربية السعودية",
+  "addressEn": "Dammam, Eastern Province, Saudi Arabia",
+  "description": "شريكك الموثوق في المزادات المميزة. نقدم لك معروضات استثنائية من خلال منصتنا الرقمية المبتكرة مع الشفافية والأمان والاحترافية.",
+  "descriptionEn": "Your trusted partner in premium auctions. We offer you exceptional offerings through our innovative digital platform with transparency, security and professionalism.",
+  "founded": "2009",
+  "experience": "15+",
+  "services": [
+    "مزادات السيارات الفاخرة",
+    "مزادات السيارات المستعملة",
+    "فحص وتقييم السيارات",
+    "خدمات ما بعد البيع",
+    "مزادات المقتنيات الثمينة",
+    "مزادات التحف والأعمال الفنية"
+  ],
+  "servicesEn": [
+    "Luxury Car Auctions",
+    "Used Car Auctions",
+    "Car Inspection & Valuation",
+    "After-Sales Services",
+    "Precious Items Auctions",
+    "Antiques & Artwork Auctions"
+  ],
+  "contact": {
+    "phone": "+966536650502",
+    "whatsapp": "+966536650502",
+    "email": "info@alhaddadauctions.com",
+    "website": "https://alhaddadauctions.com",
+    "workingHours": "الأحد - الخميس: 9:00 ص - 6:00 م",
+    "workingHoursEn": "Sunday - Thursday: 9:00 AM - 6:00 PM"
+  },
+  "socialMedia": {
+    "facebook": "https://facebook.com/alhaddadauctions",
+    "instagram": "https://instagram.com/alhaddadauctions",
+    "twitter": "https://twitter.com/alhaddadauctions",
+    "linkedin": "https://linkedin.com/company/alhaddadauctions",
+    "tiktok": "https://tiktok.com/@alhaddadauctions"
+  },
+  "stats": {
+    "auctionsCompleted": "1000+",
+    "happyClients": "500+",
+    "itemsSold": "2000+",
+    "yearsExperience": "15+"
+  },
+  "features": {
+    "liveBidding": "مزايدة مباشرة",
+    "securePayments": "دفعات آمنة",
+    "qualityGuarantee": "ضمان الجودة",
+    "expertInspection": "فحص خبراء",
+    "fastDelivery": "توصيل سريع"
+  },
+  "featuresEn": {
+    "liveBidding": "Live Bidding",
+    "securePayments": "Secure Payments",
+    "qualityGuarantee": "Quality Guarantee",
+    "expertInspection": "Expert Inspection",
+    "fastDelivery": "Fast Delivery"
+  },
+  "values": {
+    "trust": {
+      "title": "الثقة",
+      "description": "بناء علاقات دائمة من خلال عمليات مزادات موثوقة وشفافة."
+    },
+    "transparency": {
+      "title": "الشفافية",
+      "description": "الانفتاح الكامل في جميع تعاملاتنا، من فحص السيارات إلى المعاملات النهائية."
+    },
+    "excellence": {
+      "title": "التميز",
+      "description": "السعي لأعلى جودة في كل جانب من جوانب خدمات المزادات لدينا."
+    },
+    "integrity": {
+      "title": "النزاهة",
+      "description": "الحفاظ على أعلى المعايير الأخلاقية في جميع ممارساتنا التجارية."
+    }
+  },
+  "valuesEn": {
+    "trust": {
+      "title": "Trust",
+      "description": "Building lasting relationships through reliable and transparent auction processes."
+    },
+    "transparency": {
+      "title": "Transparency",
+      "description": "Complete openness in all our transactions, from car inspection to final transactions."
+    },
+    "excellence": {
+      "title": "Excellence",
+      "description": "Striving for the highest quality in every aspect of our auction services."
+    },
+    "integrity": {
+      "title": "Integrity",
+      "description": "Maintaining the highest ethical standards in all our business practices."
+    }
+  },
+  "founder": {
+    "name": "عبد المحسن الحداد",
+    "nameEn": "Abdul Mohsen Al Haddad",
+    "position": "مؤسس والرئيس التنفيذي",
+    "positionEn": "Founder & CEO",
+    "description": "عبد المحسن الحداد هو قائد رؤيوي يتمتع بأكثر من 15 عاماً من الخبرة في صناعة مزادات السيارات. شغفه بالتميز والتزامه برضا العملاء دفع شركة الحداد للمزادات لتصبح واحدة من أكثر الأسماء الموثوقة في سوق مزادات السيارات في المملكة العربية السعودية.",
+    "descriptionEn": "Abdul Mohsen Al Haddad is a visionary leader with over 15 years of experience in the car auction industry. His passion for excellence and commitment to customer satisfaction has driven Al Haddad Auctions to become one of the most trusted names in the car auction market in Saudi Arabia.",
+    "quote": "نؤمن بتقديم أفضل تجارب المزادات لعملائنا بالنزاهة والشفافية والتميز.",
+    "quoteEn": "We believe in providing the best auction experiences for our customers with integrity, transparency and excellence."
+  },
+  "auctionTypes": {
+    "live": "مزاد مباشر",
+    "upcoming": "مزاد قادم",
+    "previous": "مزاد سابق",
+    "public": "مزاد علني",
+    "sealedBid": "مزاد بالظرف المغلق"
+  },
+  "auctionTypesEn": {
+    "live": "Live Auction",
+    "upcoming": "Upcoming Auction",
+    "previous": "Previous Auction",
+    "public": "Public Auction",
+    "sealedBid": "Sealed Bid Auction"
+  },
+  "participationSteps": [
+    "تواصل معنا عبر واتساب أو الهاتف",
+    "احصل على معلومات المزاد والمواد المعروضة",
+    "شارك في المزاد المباشر أو قدم مزايدتك",
+    "ادفع واستلم سيارتك أو مقتنياتك"
+  ],
+  "participationStepsEn": [
+    "Contact us via WhatsApp or phone",
+    "Get auction information and displayed items",
+    "Participate in live auction or submit your bid",
+    "Pay and receive your car or items"
+  ],
+  "paymentMethods": ["التحويلات البنكية", "الشيكات المعتمدة", "الدفع النقدي", "الدفع الإلكتروني"],
+  "paymentMethodsEn": ["Bank Transfers", "Certified Checks", "Cash Payment", "Electronic Payment"],
+  "shippingServices": {
+    "available": true,
+    "description": "نقدم خدمات الشحن والتوصيل لجميع أنحاء المملكة العربية السعودية",
+    "descriptionEn": "We provide shipping and delivery services throughout Saudi Arabia",
+    "timeframe": "يختلف حسب الموقع ونوع العنصر",
+    "timeframeEn": "Varies by location and item type"
+  },
+  "inspectionServices": {
+    "available": true,
+    "description": "خدمة فحص وتقييم السيارات من قبل خبراء متخصصين",
+    "descriptionEn": "Car inspection and valuation service by specialized experts",
+    "hours": "الاثنين-الجمعة 9:00 ص - 5:00 م",
+    "hoursEn": "Monday-Friday 9:00 AM - 5:00 PM"
+  },
+  "faq": {
+    "general": [
+      {
+        "question": "ما هي شركة مزادات الحداد؟",
+        "answer": "شركة مزادات الحداد هي دار مزادات رائدة متخصصة في المقتنيات الثمينة والأصول الحصرية. نقدم خدمات مزادات آمنة وشفافة ومهنية من خلال منصتنا الرقمية."
+      },
+      {
+        "question": "كيف يمكنني المشاركة في المزادات؟",
+        "answer": "للمشاركة في مزاداتنا، يمكنك تصفح العناصر المتاحة على موقعنا والتواصل معنا عبر الواتساب أو الهاتف لتقديم مزايدتك. سيقوم فريقنا بإرشادك خلال العملية بأكملها."
+      }
+    ],
+    "bidding": [
+      {
+        "question": "كيف تعمل عملية المزايدة؟",
+        "answer": "عملية المزايدة لدينا بسيطة وشفافة. تواصل معنا عبر الواتساب أو الهاتف لتقديم مزايدتك. سيقوم فريقنا بإبقائك محدثاً حول حالة مزايداتك وإشعارك بأي مزايدات مضادة."
+      }
+    ],
+    "payment": [
+      {
+        "question": "ما طرق الدفع التي تقبلونها؟",
+        "answer": "نقبل طرق دفع متنوعة بما في ذلك التحويلات البنكية والشيكات المعتمدة والدفع النقدي. سيتم مناقشة خيارات الدفع المحددة مع المزايدين الفائزين."
+      }
+    ]
+  },
+  "greetings": {
+    "welcome": [
+      "مرحباً وسهلاً بك!",
+      "أهلاً وسهلاً!",
+      "مرحباً بك في شركة الحداد للمزادات!",
+      "أهلاً بك! كيف يمكنني مساعدتك؟"
+    ],
+    "welcomeEn": [
+      "Hello and welcome!",
+      "Welcome to Al Haddad Auctions!",
+      "Hi there! How can I help you?",
+      "Good to see you here!"
+    ],
+    "goodbye": ["مع السلامة!", "إلى اللقاء!", "حظاً سعيداً!", "نحن هنا دائماً لخدمتك!"],
+    "goodbyeEn": ["Goodbye!", "See you later!", "Take care!", "We're always here to help!"],
+    "thanks": ["العفو!", "سعيد بمساعدتك!", "لا شكر على واجب!", "أي وقت!"],
+    "thanksEn": ["You're welcome!", "Happy to help!", "My pleasure!", "Anytime!"]
+  },
+  "pricing": {
+    "participationFee": "رسوم المشاركة تختلف حسب نوع المزاد",
+    "participationFeeEn": "Participation fees vary by auction type",
+    "buyerCommission": "عمولة المشتري: 5-10%",
+    "buyerCommissionEn": "Buyer's commission: 5-10%",
+    "shippingFee": "رسوم الشحن حسب الموقع ونوع العنصر",
+    "shippingFeeEn": "Shipping fees depend on location and item type",
+    "inspectionFee": "رسوم الفحص متوفرة عند الطلب",
+    "inspectionFeeEn": "Inspection fees available upon request"
+  },
+  "commonQuestions": {
+    "arabic": [
+      "متى المزاد القادم؟",
+      "كيف أشارك في المزاد؟",
+      "ما هي رسوم المشاركة؟",
+      "هل تقدمون خدمة الشحن؟",
+      "ما هي طرق الدفع المقبولة؟",
+      "أين موقعكم؟",
+      "متى تفتحون؟",
+      "كيف أتواصل معكم؟"
+    ],
+    "english": [
+      "When is the next auction?",
+      "How do I participate in auctions?",
+      "What are the participation fees?",
+      "Do you offer shipping services?",
+      "What payment methods do you accept?",
+      "Where is your location?",
+      "When are you open?",
+      "How can I contact you?"
+    ]
+  }
+}
