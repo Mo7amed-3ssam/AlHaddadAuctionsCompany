@@ -1,9 +1,10 @@
 {
+  "loading": "Loading...",
   "NAVBAR": {
     "BRAND_NAME": "Al Haddad Company",
     "BRAND_TAGLINE": "Digital Auctions",
     "HOME": "Home",
-    "ABOUT": "About",
+    "ABOUT": " About Us",
     "AUCTIONS": "Auctions",
     "UPCOMING_AUCTIONS": "Upcoming Auctions",
     "PREVIOUS_AUCTIONS": "Previous Auctions",
@@ -14,6 +15,7 @@
     "LOGIN": "Login",
     "REGISTER": "Register",
     "LOGOUT": "Logout",
+    "DEFAULT_USER": "Admin",
     "PROFILE": "Profile",
     "MY_BIDS": "My Bids",
     "CALL_NOW": "Call Now",
@@ -223,7 +225,7 @@
     "TERMS_AND_CONDITIONS": "Terms & Conditions",
     "DOWNLOAD_TERMS": "Download Terms PDF",
     "PARTNER": "Partner",
-    "SOCIAL_LINKS": "Social Media",
+    "SOCIAL_LINKS": "Auction Social Media",
     "NOTIFY_ME": "Notify Me",
     "NO_IMAGE": "No Image Available",
     "CLICK_TO_ZOOM": "Click to zoom"
